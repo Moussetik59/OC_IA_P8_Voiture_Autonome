@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 
-# xclure les fichiers et dossiers de logs, cache et checkpoints
+# Exclure les fichiers et dossiers de logs, cache et checkpoints
 .ipynb_checkpoints/
 logs/
 
@@ -13,8 +13,10 @@ models/
 # Exclure les données du projet (plusieurs Go)
 data/
 
-# Exclure les fichiers d'aide et documents non nécessaires à GitHub
+# Exclure les dossiers, fichiers d'aide et documents non nécessaires à GitHub
 help/
+point/
+images/
 informations.txt
 arborescence.txt
 
