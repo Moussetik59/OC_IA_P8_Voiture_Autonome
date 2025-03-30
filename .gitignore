@@ -12,6 +12,8 @@ models/
 
 # Exclure les données du projet (plusieurs Go)
 data/
+data_redim/
+saved/
 
 # Exclure les dossiers, fichiers d'aide et documents non nécessaires à GitHub
 help/
@@ -19,4 +21,5 @@ point/
 images/
 informations.txt
 arborescence.txt
-
+arborescence2.txt
+Dujardin_Vincent_1_notebook_032025.ipynb
